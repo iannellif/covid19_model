@@ -1,0 +1,25 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+Italy,European Region of WHO,South West Europe,2019,40,2019-09-30,2019-10-06,,,,,,,,,,,,,,,No Report
+Italy,European Region of WHO,South West Europe,2019,41,2019-10-07,2019-10-13,,,,,,,,,,,,,,,No Report
+Italy,European Region of WHO,South West Europe,2019,42,2019-10-14,2019-10-20,,,,,,,,,,,,,,,No Report
+Italy,European Region of WHO,South West Europe,2019,43,2019-10-21,2019-10-27,,,,,,,,,,,,,,,No Report
+Italy,European Region of WHO,South West Europe,2019,44,2019-10-28,2019-11-03,,,,,,,,,,,,,,,No Report
+Italy,European Region of WHO,South West Europe,2019,45,2019-11-04,2019-11-10,,,,,,,,,,,,,,,No Report
+Italy,European Region of WHO,South West Europe,2019,46,2019-11-11,2019-11-17,463,463,,1,2,,,3,,,0,0,3,460,Sporadic
+Italy,European Region of WHO,South West Europe,2019,47,2019-11-18,2019-11-24,537,537,,2,1,,,3,,1,,1,4,533,Sporadic
+Italy,European Region of WHO,South West Europe,2019,48,2019-11-25,2019-12-01,560,560,,6,9,,,15,,3,,3,18,542,Sporadic
+Italy,European Region of WHO,South West Europe,2019,49,2019-12-02,2019-12-08,642,642,,3,22,,1,26,,1,,1,27,615,Sporadic
+Italy,European Region of WHO,South West Europe,2019,50,2019-12-09,2019-12-15,624,624,,11,27,,0,38,,6,1,7,45,579,Sporadic
+Italy,European Region of WHO,South West Europe,2019,51,2019-12-16,2019-12-22,765,765,,7,42,,5,54,,6,15,21,75,690,Local Outbreak
+Italy,European Region of WHO,South West Europe,2019,52,2019-12-23,2019-12-29,594,594,,11,31,,,46,,5,17,22,68,526,Local Outbreak
+Italy,European Region of WHO,South West Europe,2020,1,2019-12-30,2020-01-05,761,761,,25,30,,5,60,,3,22,25,85,676,Local Outbreak
+Italy,European Region of WHO,South West Europe,2020,2,2020-01-06,2020-01-12,932,932,,55,70,,3,128,,10,40,50,178,754,Regional Outbreak
+Italy,European Region of WHO,South West Europe,2020,3,2020-01-13,2020-01-19,1372,12372,,131,166,,12,309,,40,105,145,454,918,Regional Outbreak
+Italy,European Region of WHO,South West Europe,2020,4,2020-01-20,2020-01-26,1240,1240,,116,147,,19,282,,39,98,137,419,821,Regional Outbreak
+Italy,European Region of WHO,South West Europe,2020,5,2020-01-27,2020-02-02,1581,1581,,148,191,,20,359,1,47,137,185,544,1037,Widespread Outbreak
+Italy,European Region of WHO,South West Europe,2020,6,2020-02-03,2020-02-09,1514,1514,,125,179,,24,328,2,69,114,185,513,1001,Widespread Outbreak
+Italy,European Region of WHO,South West Europe,2020,7,2020-02-10,2020-02-16,1245,1245,,108,185,,32,325,,60,120,180,505,740,Widespread Outbreak
+Italy,European Region of WHO,South West Europe,2020,8,2020-02-17,2020-02-23,1072,918,,67,96,,55,218,,23,78,101,319,599,Widespread Outbreak
+Italy,European Region of WHO,South West Europe,2020,9,2020-02-24,2020-03-01,,,,,,,,,,,,,,,No Report
+Italy,European Region of WHO,South West Europe,2020,10,2020-03-02,2020-03-08,,,,,,,,,,,,,,,No Report
+
